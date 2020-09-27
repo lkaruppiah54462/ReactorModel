@@ -1,3 +1,9 @@
+# Adding config.py file.
+config.py 
+
+# also pdf files
+github-git-cheat-sheet.pdf
+markdown-cheatsheet-online.pdf
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
