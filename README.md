@@ -35,9 +35,13 @@ project progresses
 
 E. PRESENTATION (Google Slides Link)
 
-![](https://docs.google.com/presentation/d/1z78O63M3M7ujIqjIRi2hlsEVZtfQPtE0wT2LkSDIUQs/edit?usp=sharing)
+[]https://docs.google.com/presentation/d/1z78O63M3M7ujIqjIRi2hlsEVZtfQPtE0wT2LkSDIUQs/edit?usp=sharing
 
-![](Final_Project_Delivarable_1a.PNG)
+
 
 ![](Final_Project_Delivarable_1.PNG)
+
+
+
+
 
