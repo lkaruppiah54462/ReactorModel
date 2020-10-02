@@ -24,9 +24,20 @@ E. Logistics
 
 1. Solo Project : Lakshmanan Karuppiah
 2. Data : Real Machine Data (multiples)
+3. Initial data was loaded into Postgres and read using sqlalchemy create_engine
+4. Multiple data generated from various machine will be merged in postgres
+5. sep30.ipynb is the jupyter notebook file with data extraction,transformation, 
+and machine model
+6. Google slide link is  the inital presentation  and will be expanded as the 
+project progresses
+7. the picturs are snipits of the jupyter notebook to show the data loading /extraction 
+,cleaning and machine model coded in  jupyter notebook
 
 E. PRESENTATION (Google Slides Link)
 
 []https://docs.google.com/presentation/d/1z78O63M3M7ujIqjIRi2hlsEVZtfQPtE0wT2LkSDIUQs/edit?usp=sharing
 
+[]Final_Project_Delivarable_1.PNG
+
+[]Final_Project_Delivarable_1a.PNG
 
