@@ -40,10 +40,10 @@ E. PRESENTATION (Google Slides Link)
 
 F. Snip its From python file
 
-![](Final_Project_Delivarable_1.PNG)
-
-
 ![](Final_Project_Delivarable_1a.PNG)
+
+
+![](Final_Project_Delivarable_1b.PNG)
 
 
 
