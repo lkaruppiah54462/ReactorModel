@@ -32,6 +32,7 @@ and machine model
 project progresses
 7. the picturs are snipits of the jupyter notebook to show the data loading /extraction 
 ,cleaning and machine model coded in  jupyter notebook
+8.temp.csv is the inital data file generated and used for inital trial run
 
 E. PRESENTATION (Google Slides Link)
 
@@ -40,33 +41,7 @@ E. PRESENTATION (Google Slides Link)
 
 F. Snipits From python file
 
-
-
-
-
-
-
-
-
-
-
-
-
-![](Final_Project_Delivarable_1b.PNG)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](Final_Project_Deliverable_1b.PNG)
 
 ![](Final_Project_Delivarable_1a.PNG)
 
