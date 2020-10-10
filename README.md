@@ -38,7 +38,7 @@ E. PRESENTATION (Google Slides Link)
 
 [oct7]https://docs.google.com/presentation/d/1z78O63M3M7ujIqjIRi2hlsEVZtfQPtE0wT2LkSDIUQs/edit?usp=sharing
 
-[oct10]https://docs.google.com/presentation/d/1xQ5MuJRbCzNJU82yrol5ztJdM2bgejZvOb7wfAUUQbo/edit?usp=sharing
+[oct10]https://docs.google.com/presentation/d/1z78O63M3M7ujIqjIRi2hlsEVZtfQPtE0wT2LkSDIUQs/edit?usp=sharing
 
 F. Snipits From python file
 
