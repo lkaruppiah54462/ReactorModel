@@ -61,7 +61,9 @@ F. Snipits From python file
 G. Results from running predicted models
 
 ![OCT17](low_pressure.png)
+
 ![OCT17](medium_pressure.png)
+
 ![OCT17](high_pressure.png)
 
 
