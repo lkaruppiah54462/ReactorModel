@@ -43,6 +43,8 @@ E. PRESENTATION (Google Slides Link)
 
 [oct10]https://docs.google.com/presentation/d/1z78O63M3M7ujIqjIRi2hlsEVZtfQPtE0wT2LkSDIUQs/edit?usp=sharing
 
+[oct17]https://docs.google.com/presentation/d/1z78O63M3M7ujIqjIRi2hlsEVZtfQPtE0wT2LkSDIUQs/edit?usp=sharing
+
 F. Results from running predicted models
 
 ![OCT17](low_pressure1.PNG)
