@@ -43,8 +43,15 @@ E. PRESENTATION (Google Slides Link)
 
 [oct10]https://docs.google.com/presentation/d/1z78O63M3M7ujIqjIRi2hlsEVZtfQPtE0wT2LkSDIUQs/edit?usp=sharing
 
+F. Results from running predicted models
 
-F. Snipits From python file
+![OCT17](low_pressure.png)
+
+![OCT17](medium_pressure.png)
+
+![OCT17](high_pressure.png)
+
+G. Snipits From python file
 
 ![oct7](Final_Project_Deliverable_1b.PNG)
 
@@ -58,13 +65,7 @@ F. Snipits From python file
 
 ![oct10](final_project_delivarable_2b.PNG)
 
-G. Results from running predicted models
 
-![OCT17](low_pressure.png)
-
-![OCT17](medium_pressure.png)
-
-![OCT17](high_pressure.png)
 
 
 
