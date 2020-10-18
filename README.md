@@ -33,12 +33,16 @@ project progresses
 7. the picturs are snipits of the jupyter notebook to show the data loading /extraction 
 ,cleaning and machine model coded in  jupyter notebook
 8. temp.csv is the inital data file generated and used for inital trial run
+9. Created machine inputs with temp.csv data. We ran the machine with different parameters and two of the inputs were based on the model
+10. Data collected during the run was cleaned and transformed for comparison of the output vs predicted.
+11. For meanigful comparison threee pressures (low, medium , high ) were seperated and plotted
 
 E. PRESENTATION (Google Slides Link)
 
 [oct7]https://docs.google.com/presentation/d/1z78O63M3M7ujIqjIRi2hlsEVZtfQPtE0wT2LkSDIUQs/edit?usp=sharing
 
 [oct10]https://docs.google.com/presentation/d/1z78O63M3M7ujIqjIRi2hlsEVZtfQPtE0wT2LkSDIUQs/edit?usp=sharing
+
 
 F. Snipits From python file
 
@@ -54,6 +58,11 @@ F. Snipits From python file
 
 ![oct10](final_project_delivarable_2b.PNG)
 
+G. Results from running predicted models
+
+![OCT17](low_pressure.png)
+![OCT17](medium_pressure.png)
+![OCT17](high_pressure.png)
 
 
 
