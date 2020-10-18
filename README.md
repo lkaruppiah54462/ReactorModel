@@ -45,11 +45,11 @@ E. PRESENTATION (Google Slides Link)
 
 F. Results from running predicted models
 
-![OCT17](low_pressure.png)
+![OCT17](low_pressure1.PNG)
 
-![OCT17](medium_pressure.png)
+![OCT17](medium_pressure1.PNG)
 
-![OCT17](high_pressure.png)
+![OCT17](high_pressure1.PNG)
 
 G. Snipits From python file
 
