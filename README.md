@@ -40,6 +40,14 @@ E. Final PRESENTATION (Google Slides Link)
 
 [PLOTLY]https://lkaruppiah54462.github.io/reactormodelplotly/index.html
 
+F. Images
+
+![](POSTGRES.PNG)
+
+![](ETL.PNG)
+
+![](DNN.PNG)
+
  
  
 
