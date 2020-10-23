@@ -48,6 +48,10 @@ F. Images
 
 ![](DNN.PNG)
 
+![](DASHBOARD.PNG)
+
+![](PLOTLY.PNG)
+
  
  
 
